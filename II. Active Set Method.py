@@ -1,5 +1,3 @@
-# Active Set Method for QP
-
 import time
 import numpy as np
 
