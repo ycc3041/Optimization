@@ -1,5 +1,5 @@
 # Optimization
-This repository is for different projects related to optimization.
+This repository is for different projects related to optimization algorithms.
 
 ## Prerequisites
 * python 3.6
